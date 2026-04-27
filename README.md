@@ -30,6 +30,5 @@
 - :trophy: Getting ready to graduate in August 2026!
 - :zap: Fun fact: I maintain a meticulously organized personal database of films and TV series using Notion. <br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Solaiman_Aghribi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) [![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat-square&labelColor=000000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/)](https://www.tiktok.com/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=white&link=https://t.me/)](https://t.me/)
+
