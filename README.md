@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
   <div>
    <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
    <br> I'm Solaiman Aghribi, Full-Stack Developer & Software Engineer :computer:<br>
@@ -7,9 +7,9 @@
   </div>
 </h2>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="center">👨🏻‍💻 About Me:</h2>
 
-<p align="left">
+<p align="center">
 I am a passionate Full-Stack Developer with a strong foundation in building dynamic, responsive web applications and robust software architectures. Highly driven by continuous learning and hands-on problem solving, I focus on writing clean, maintainable code (SOLID principles) and building real-world projects.
 </p>
 
@@ -19,10 +19,10 @@ I am a passionate Full-Stack Developer with a strong foundation in building dyna
 - 🧠 **Interests:** Exploring AI engineering by integrating LLM APIs (Gemini, Claude) into modern web applications.
 <br>
 
-## 🛠️ Technologies & Tools
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-### Frontend
-<p align="left">
+<h3 align="center">Frontend</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -32,8 +32,8 @@ I am a passionate Full-Stack Developer with a strong foundation in building dyna
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
-### Backend & Languages
-<p align="left">
+<h3 align="center">Backend & Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -42,7 +42,13 @@ I am a passionate Full-Stack Developer with a strong foundation in building dyna
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-### Tools & Platforms
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+<br>
+
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
@@ -55,4 +61,3 @@ I am a passionate Full-Stack Developer with a strong foundation in building dyna
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=solaimanag&theme=tokyo-night&hide_border=true" alt="Solaiman's Activity Graph" />
 </div>
 <br>
-
