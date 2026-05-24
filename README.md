@@ -43,11 +43,16 @@ I am a passionate Full-Stack Developer with a strong foundation in building dyna
 </p>
 
 ### Tools & Platforms
-<h2 align="left">📊 GitHub Stats & Activity:</h2>
-<p align="left">
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+  <p><strong>🔥 GitHub Contribution Streak</strong></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=solaimanag&theme=tokyonight&hide_border=true" alt="Solaiman's GitHub Streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solaimanag&theme=tokyonight&hide_border=true" alt="Solaiman's Activity Graph" />
-</p>
+  
+  <br><br>
+  
+  <p><strong>📈 Account Activity Graph</strong></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solaimanag&theme=tokyo-night&hide_border=true" alt="Solaiman's Activity Graph" />
+</div>
+<br>
 
