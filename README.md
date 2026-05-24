@@ -7,16 +7,29 @@
   </div>
 </h2>
 
-<h2 align="center">👨🏻‍💻 About Me:</h2>
+<h2 align="center">👨🏻‍💻 About Me</h2>
 
 <p align="center">
 I am a passionate Full-Stack Developer with a strong foundation in building dynamic, responsive web applications and robust software architectures. Highly driven by continuous learning and hands-on problem solving, I focus on writing clean, maintainable code (SOLID principles) and building real-world projects.
 </p>
 
-- 🎓 **Education:** Completing my Diploma in Développement Informatique at Institut Hermes (Expected Aug 2026).
-- 🏥 **Featured Project:** Currently architecting a comprehensive Hospital Management System using **C# (Desktop)** and **Laravel (Web)** for my final year project.
-- 🚀 **Current Focus:** Deepening my knowledge in **React** and **Laravel** through the Scrimba Front-End & AI Engineering Path.
+- 🏥 **Featured Project:** Currently architecting a comprehensive Hospital Management System (PFE) utilizing **C#** for Desktop, **React & Tailwind** for Web, and a robust **Laravel API** for database migrations and seamless integration.
 - 🧠 **Interests:** Exploring AI engineering by integrating LLM APIs (Gemini, Claude) into modern web applications.
+<br>
+
+<h2 align="center">🎓 Education & Development</h2>
+
+- **Bac+2 Diploma in Développement Informatique** | Institut Hermes
+  - _Expected Graduation: August 2026_
+  - Studied foundational computer science concepts, including Object-Oriented Programming (OOP) and algorithmic problem-solving.
+  - Developed core programming skills and logic using C++ and C#.
+  - Learned back-end web development principles and database management using PHP, and gained practical experience with the Laravel framework.
+
+- **Front-End & AI Engineering Path** | Scrimba
+  - _Self-paced professional development_
+  - Mastered modern front-end development through hands-on, real-world project building.
+  - Gained advanced proficiency in building dynamic, single-page applications (SPAs) using React and designing responsive interfaces with Tailwind CSS.
+  - Explored AI engineering concepts and practical implementations within modern web applications.
 <br>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
@@ -61,3 +74,16 @@ I am a passionate Full-Stack Developer with a strong foundation in building dyna
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=solaimanag&theme=tokyo-night&hide_border=true" alt="Solaiman's Activity Graph" />
 </div>
 <br>
+
+<h2 align="center">🤝 Let's Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/solaiman-aghribi-290143344" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sul.vimvn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:solaiman.aghribi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
