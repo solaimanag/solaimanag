@@ -50,8 +50,4 @@ I am a passionate Full-Stack Developer with a strong foundation in building dyna
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=solaimanag&theme=tokyonight&hide_border=true" alt="Solaiman's Activity Graph" />
 </p>
-<h2 align="left">📊 GitHub Stats:</h2>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solaimanag&theme=tokyonight&hide_border=true" alt="Solaiman's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solaimanag&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Solaiman's Top Languages" />
-</p>
+
