@@ -70,8 +70,10 @@ I am a passionate Full-Stack Developer with a strong foundation in building dyna
   
   <br><br>
   
-  <p><strong>📈 Account Activity Graph</strong></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solaimanag&theme=tokyo-night&hide_border=true" alt="Solaiman's Activity Graph" />
+  <p><strong>📈 Account Stats & Top Languages</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=solaimanag&theme=tokyonight&hide_border=true&show_icons=true" alt="Solaiman's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanag&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 <br>
 
