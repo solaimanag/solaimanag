@@ -13,14 +13,14 @@
 I am a passionate Full-Stack Developer with a strong foundation in building dynamic, responsive web applications and robust software architectures. Highly driven by continuous learning and hands-on problem solving, I focus on writing clean, maintainable code (SOLID principles) and building real-world projects.
 </p>
 
-- 🏥 **Featured Project:** Currently architecting a comprehensive Hospital Management System (PFE) utilizing **C#** for Desktop, **React & Tailwind** for Web, and a robust **Laravel API** for database migrations and seamless integration.
+- 🏥 **Featured Project:** Architected and developed a comprehensive Hospital Management System (PFE) utilizing **C#** for Desktop, **React & Tailwind** for Web, and a robust **Laravel API** for database migrations and seamless integration.
 - 🧠 **Interests:** Exploring AI engineering by integrating LLM APIs (Gemini, Claude) into modern web applications.
 <br>
 
 <h2 align="center">🎓 Education & Development</h2>
 
 - **Bac+2 Diploma in Développement Informatique** | Institut Hermes
-  - _Expected Graduation: August 2026_
+  - _Graduated: August 2026_
   - Studied foundational computer science concepts, including Object-Oriented Programming (OOP) and algorithmic problem-solving.
   - Developed core programming skills and logic using C++ and C#.
   - Learned back-end web development principles and database management using PHP, and gained practical experience with the Laravel framework.
