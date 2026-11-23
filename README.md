@@ -1,91 +1,171 @@
+
 <h2 align="center">
-  <div>
-   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-   <br> I'm Solaiman Aghribi, Full-Stack Developer & Software Engineer :computer:<br>
-   <br>
-     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  </div>
+  Hi there! 👋 I'm Solaiman Aghribi
 </h2>
 
-<h2 align="center">👨🏻‍💻 About Me</h2>
+<h3 align="center">
+  Junior Full-Stack Developer | Web & Desktop Development
+</h3>
 
 <p align="center">
-I am a passionate Full-Stack Developer with a strong foundation in building dynamic, responsive web applications and robust software architectures. Highly driven by continuous learning and hands-on problem solving, I focus on writing clean, maintainable code (SOLID principles) and building real-world projects.
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation" width="450">
 </p>
 
-- 🏥 **Featured Project:** Architected and developed a comprehensive Hospital Management System (PFE) utilizing **C#** for Desktop, **React & Tailwind** for Web, and a robust **Laravel API** for database migrations and seamless integration.
-- 🧠 **Interests:** Exploring AI engineering by integrating LLM APIs (Gemini, Claude) into modern web applications.
-<br>
-
-<h2 align="center">🎓 Education & Development</h2>
-
-- **Bac+2 Diploma in Développement Informatique** | Institut Hermes
-  - _Graduated: August 2026_
-  - Studied foundational computer science concepts, including Object-Oriented Programming (OOP) and algorithmic problem-solving.
-  - Developed core programming skills and logic using C++ and C#.
-  - Learned back-end web development principles and database management using PHP, and gained practical experience with the Laravel framework.
-
-- **Front-End & AI Engineering Path** | Scrimba
-  - _Self-paced professional development_
-  - Mastered modern front-end development through hands-on, real-world project building.
-  - Gained advanced proficiency in building dynamic, single-page applications (SPAs) using React and designing responsive interfaces with Tailwind CSS.
-  - Explored AI engineering concepts and practical implementations within modern web applications.
-<br>
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
-<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <a href="https://solaimanag.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/solaiman-aghribi-290143344">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<h3 align="center">Backend & Languages</h3>
+---
+
+## 👨🏻‍💻 About Me
+
+I'm a Junior Full-Stack Developer and IT Development graduate based in Tangier, Morocco.
+
+I enjoy building responsive web applications, developing practical software solutions, and exploring modern technologies.
+
+My primary stack includes React.js, JavaScript, PHP, Laravel, and MySQL. I also have experience with Electron.js for desktop applications and have studied Node.js, Express.js, TypeScript, and Next.js through Scrimba.
+
+- 🎓 Bac+2 Diploma in Développement Informatique — Institut Hermes (2026)
+- 🏥 **PFE:** NovaClinic — Cross-Platform Hospital Management System
+- 📚 Completed Frontend, Backend, and Fullstack Developer Paths on Scrimba
+- 🧠 Interested in AI-assisted development and modern software engineering
+- 🎯 Currently seeking Full-Stack / Web Development internship opportunities
+- 🌐 Portfolio: [solaimanag.netlify.app](https://solaimanag.netlify.app/)
+
+---
+
+## 🏥 Featured Project — NovaClinic
+
+**Cross-Platform Hospital Management System**
+
+An academic full-stack project designed to streamline clinic operations through integrated web and desktop applications.
+
+### Technology Stack
+
+- **Web:** React.js, Tailwind CSS
+- **Desktop:** Electron.js and React
+- **Backend:** PHP, Laravel REST API
+- **Database:** MySQL
+- **Integration:** Axios, REST APIs
+- **Charts:** Recharts
+
+### Key Features
+
+- Patient and doctor management
+- Appointment scheduling and tracking
+- Medical consultations and records
+- Role-based access control
+- Interactive dashboards and statistics
+- PDF generation for prescriptions and appointment tickets
+- Shared backend and database for web and desktop clients
+
+The project provided practical experience in frontend development, API integration, relational databases, and cross-platform application development.
+
+---
+
+## 🎓 Education & Certifications
+
+### 🎓 Institut Hermes
+**Bac+2 Diploma in Développement Informatique**
+
+October 2024 – August 2026
+
+Key areas of study:
+- Programming and Object-Oriented Programming
+- Web development with HTML, CSS, JavaScript, PHP, and Laravel
+- SQL and relational database management
+- Desktop development with C#
+- Algorithms and software development fundamentals
+
+### 🏆 Scrimba — Completed Career Paths
+
+| Certification | Completion Date | Duration |
+|---|---|---|
+| Frontend Developer Path | October 2026 | 81.6 hours |
+| Backend Developer Path | November 2026 | 36.2 hours |
+| Fullstack Developer Path | November 2026 | 108.4 hours |
+
+These learning paths cover modern frontend and backend development, including React, Node.js, Express, TypeScript, Next.js, APIs, databases, and testing.
+
+Also completed **Prompt Engineering for Web Developers** through Scrimba.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs,ts&perline=8" alt="Frontend technologies">
 </p>
 
-<h3 align="center">Tools & Platforms</h3>
+### Backend & Databases
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql&perline=8" alt="Backend technologies">
 </p>
-<br>
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+### Desktop & Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=electron,cs,cpp&perline=8" alt="Desktop and programming languages">
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel,netlify&perline=8" alt="Development tools">
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <p><strong>🔥 GitHub Contribution Streak</strong></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solaimanag&theme=tokyonight&hide_border=true" alt="Solaiman's GitHub Streak" />
-  
-  <br><br>
-  
-  <p><strong>📈 Account Stats & Top Languages</strong></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=solaimanag&theme=tokyonight&hide_border=true&show_icons=true" alt="Solaiman's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanag&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-<br>
 
-<h2 align="center">🤝 Let's Connect</h2>
+### 🔥 GitHub Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solaimanag&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=solaimanag&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub statistics">
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanag&theme=tokyonight&hide_border=true&layout=compact" alt="Most used GitHub languages">
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/solaiman-aghribi-290143344" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/solaiman-aghribi-290143344">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/sul.vimvn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://solaimanag.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Personal Portfolio">
   </a>
-  <a href="mailto:solaiman.aghribi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <a href="https://www.instagram.com/sul.vimvn/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+
+  <a href="mailto:solaiman.aghribi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+</p>
+
+<p align="center">
+  Open to collaboration, learning opportunities, and internships in web development.
 </p>
