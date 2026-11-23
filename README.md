@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://solaimanag.netlify.app/">
+  <a href="https://solaimanag.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/solaiman-aghribi-290143344">
+  <a href="https://www.linkedin.com/in/solaiman-aghribi-290143344" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -35,7 +35,7 @@ My primary stack includes React.js, JavaScript, PHP, Laravel, and MySQL. I also 
 - 📚 Completed Frontend, Backend, and Fullstack Developer Paths on Scrimba
 - 🧠 Interested in AI-assisted development and modern software engineering
 - 🎯 Currently seeking Full-Stack / Web Development internship opportunities
-- 🌐 Portfolio: [solaimanag.netlify.app](https://solaimanag.netlify.app/)
+- 🌐 Portfolio: <a href="https://solaimanag.netlify.app/" target="_blank" rel="noopener noreferrer">solaimanag.netlify.app</a>
 
 ---
 
@@ -71,6 +71,7 @@ The project provided practical experience in frontend development, API integrati
 ## 🎓 Education & Certifications
 
 ### 🎓 Institut Hermes
+
 **Bac+2 Diploma in Développement Informatique**
 
 October 2024 – August 2026
@@ -148,19 +149,19 @@ Also completed **Prompt Engineering for Web Developers** through Scrimba.
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/solaiman-aghribi-290143344">
+  <a href="https://www.linkedin.com/in/solaiman-aghribi-290143344" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="https://solaimanag.netlify.app/">
+  <a href="https://solaimanag.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Personal Portfolio">
   </a>
 
-  <a href="https://www.instagram.com/sul.vimvn/">
+  <a href="https://www.instagram.com/sul.vimvn/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
-  <a href="mailto:solaiman.aghribi@gmail.com">
+  <a href="mailto:solaiman.aghribi@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
